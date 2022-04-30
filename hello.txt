@@ -8,3 +8,4 @@ hello ruanjian! hello Git! 在master中修改了这一行
 hello ruanjian! hello Git! 在hot-fix中修改的内容
 hello ruanjian! hello Git!
 这是在hot-fix分支中修改的内容{张三是也}
+master中 修的内容
