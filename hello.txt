@@ -4,7 +4,7 @@ hello ruanjian! hello Git!
 hello ruanjian! hello Git!
 hello ruanjian! hello Git!
 hello ruanjian! hello Git!
-hello ruanjian! hello Git!
+hello ruanjian! hello Git! 在master中修改了这一行
 hello ruanjian! hello Git!
 hello ruanjian! hello Git!
 hello ruanjian! hello Git!
